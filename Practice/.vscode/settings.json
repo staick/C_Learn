@@ -1,0 +1,17 @@
+{
+    "files.autoSave": "afterDelay",
+    "workbench.externalUriOpeners": {
+    
+    },
+    "code-runner.fileDirectoryAsCwd": true,
+    "code-runner.executorMapByGlob": {
+
+        "pom.xml": "cd $dir && mvn clean package"
+    },
+    "code-runner.languageIdToFileExtensionMap": {
+    
+        "bat": ".bat",
+        "powershell": ".ps1",
+        "typescript": ".ts"
+    }
+}
