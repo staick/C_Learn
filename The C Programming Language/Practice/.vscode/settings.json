@@ -13,5 +13,8 @@
         "bat": ".bat",
         "powershell": ".ps1",
         "typescript": ".ts"
+    },
+    "files.associations": {
+        "stdio.h": "c"
     }
 }
